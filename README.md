@@ -26,10 +26,6 @@
 ### 
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souksavanh-dev&show_icons=true&locale=en" alt="souksavanh-dev" /></p>
-</div>
-
-<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souksavanh-dev&" alt="souksavanh-dev" /></p>
 </div>
 
